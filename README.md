@@ -1,4 +1,4 @@
-Это все будет переделано.
+<!--Версия README не является действующей. При выполнении проекта README будет полностью переделан.-->
 # TaskFlow / ProjectMaster
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
